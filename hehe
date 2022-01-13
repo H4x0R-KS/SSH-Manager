@@ -42,10 +42,10 @@ clear; exit 1
 }
 }
 echo -e "\033[1;31m\033[0m"
-tput setaf 7 ; tput setab 4 ; tput bold ; printf '%40s%s%-12s\n' "◇─────────ㅤ🐉ㅤWelcome To DRAGON VPS MANAGERㅤ🐉ㅤ─────────◇" ; tput sgr0
+tput setaf 7 ; tput setab 4 ; tput bold ; printf '%40s%s%-12s\n' "◇─────────ㅤ🐉ㅤWelcome To KingSSH MANAGERㅤ🐉ㅤ─────────◇" ; tput sgr0
 echo -e "\033[1;31m◇──────────────────────────────────────────────────────◇\033[0m"
 echo ""
-echo -e "\033[1;31m◇ ATTENTION!ㅤ⚠️ㅤ.\033[1;33mㅤTHIS SCRIPT CONTAINS THE FOLLOWING!!\033[0m"
+echo -e "\033[1;31m◇ By King{Sahan}ㅤ⚠️ㅤ.\033[1;33mㅤTHIS SCRIPT CONTAINS THE FOLLOWING!!\033[0m"
 echo ""
 echo -e "\033[1;31m◇ \033[1;33mINSTALL A SET OF SCRIPTS AS TOOLS FOR\033[0m"
 echo -e "\033[1;33mNETWORK, SYSTEM AND USER MANAGEMENT.\033[0m"
@@ -132,10 +132,10 @@ clear
 echo ""
 cd $HOME
 IP=$(wget -qO- ipv4.icanhazip.com)
-echo -e "        \033[1;33m  \033[1;32m◇ INSTALLATION COMPLETED.◇\033[1;33m  \033[0m"
+echo -e "        \033[1;33m  \033[1;32m◇ INSTALLATION COMPLETED. Credits: Sahan Sachintha ◇\033[1;33m  \033[0m"
 echo ""
 echo -e "\033[1;31m\033[1;33m◇ MAIN COMMAND:- \033[1;32mmenu\033[0m"
-echo -e "\033[1;33m◇ MORE INFORMATION \033[1;31m(\033[1;36m◇ TELEGRAM\033[1;31m): \033[1;37m@DRAGON_VPS_MANAGER \033[1;31m( \033[1;36m https://t.me/s/DRAGON_VPS_MANAGER \033[1;31m )\033[0m"
+echo -e "\033[1;33m◇ MORE INFORMATION \033[1;31m(\033[1;36m◇ TELEGRAM\033[1;31m): \033[1;37m@KS Tech \033[1;31m( \033[1;36m https://t.me/KS380 \033[1;31m )\033[0m"
 echo -e ""
 echo -e "\033[1;31m \033[1;33m◇--TIP!--◇\033[1;36mㅤ--Using this url you can easily see the number of users online at the server.\033[0m"
 echo -e " http://$IP:8888/server/online"
