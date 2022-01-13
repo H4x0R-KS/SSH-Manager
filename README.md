@@ -12,7 +12,7 @@
 ___Update System Packages and Install SCRIPT___
 
 ```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/januda-ui/DRAGON-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/H4x0R-KS/SSH-Manager/main/hehe; chmod 777 hehe;./hehe
 
 ```
 
@@ -23,7 +23,7 @@ ___Tutorial___
 <P>
 <div class="div1">
 <span><a href="https://vimeo.com/652289751"><img src="https://user-images.githubusercontent.com/83800532/144345002-c3ec5251-f723-4a81-bcaa-ad4579562218.png" alt=""width="50"height="50"/></a></span>
-<span><a href="https://t.me/dragon_vps_manager/18"><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="50"height="50"/></a></span>
+<span><a href="https://t.me/King_Sahan"><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="50"height="50"/></a></span>
 </div>
 </P>
   
@@ -73,21 +73,13 @@ ___Based on___
 </div>
  </p>
  
- ## ㅤ
- 
-___Credits___
-
-<p>see on <a href="https://github.com/januda-ui/DRAGON-VPS-MANAGER/wiki/Credits" target="_blank" rel="noopener">wiki</a></p>
-<p>see on <a href="https://telegra.ph/DRAGON-VPS-MANAGER-11-30" target="_blank" rel="noopener">Telegra.ph</a>&nbsp;</p>
-  <P><b><i> 💐💐 To everyone who gave me advice and ideas.💐💐 </i></b></p>
-
-## ㅤ
+##ㅤ
 
 ___Follow Us!___
 
  <p>    
 <div class="div2">
- <span><a href="https://t.me/s/dragon_vps_manager"><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="50"height="50"/></a></span>
+ <span><a href="https://t.me/KS380"><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="50"height="50"/></a></span>
  </div>
  </p>
  
@@ -95,7 +87,7 @@ ___Follow Us!___
  
 ___⚠️ Announcement ⚠️___
 
-<p><i>This script is not our own <a href="https://t.me/s/singledevelopers/">@SingleDevelopers</a> creation and we will be working on providing our own script soon.<i></p>
+<p><i>This script is not my own <a href="https://t.me/KingSahanAIO">@KS Tech</a> creation and we will be working on providing our own script soon.<i></p>
 
  
 ##  ㅤ
