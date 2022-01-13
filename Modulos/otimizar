@@ -28,7 +28,7 @@ fun_bar() {
 }
 [[ $(grep -wc mlocate /var/lib/dpkg/statoverride) != '0' ]] && sed -i '/mlocate/d' /var/lib/dpkg/statoverride
 clear
-echo -e "\E[44;1;37m                🐉ㅤServer Optimizeㅤ🐉                \E[0m"
+echo -e "\E[44;1;37m                ❤️ㅤServer Optimizeㅤ❤️                \E[0m"
 echo ""
 echo -e "\033[1;32m             ◇ Updating packages\033[0m"
 echo ""
