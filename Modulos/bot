@@ -518,7 +518,7 @@ ver_users() {
                         data=$(echo -e "$((($(date -ud $dat +%s) - $(date -ud $(date +%Y-%m-%d) +%s)) / 86400)) Days")
                     }
                 }
-                info+="$user • $senha • $limite • $data"
+                info+="<code>$user</code> • <cod>$senha</code> • $limite • $data"
                 echo -e "$info"
             done
         }
