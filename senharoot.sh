@@ -21,3 +21,4 @@ clear
 } > /dev/null
 service ssh restart > /dev/null
 clear; echo -e "\033[1;32mTHEN DEFINE THE ROOT PASSWORD\033[0m"; sleep 2s; passwd && rm senharoot.sh
+
